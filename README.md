@@ -12,3 +12,6 @@ Anotações referente a trilha de conhecimento Data_Science
 
 ### Semana - 3
 - [14/08/2024](https://github.com/2RP-Squad404/Joao_Barbosa/blob/develop/semana3/14_08.md)
+
+### Semana - 4
+- [20/08/2024](https://github.com/2RP-Squad404/Joao_Barbosa/blob/develop/semana4/20_08.md)
